@@ -105,4 +105,3 @@ def plugin_main(api:API):
     api.listen_mc_packet(pkt_type="IDText",cb=None,on_new_packet_cb=getIDAddPlayer_IDTextr_pakcet)
 
 omega.add_plugin(plugin=plugin_main)
-omega.run(addr=None)
