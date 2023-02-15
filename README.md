@@ -1,2 +1,1 @@
-# OmgSide_Plugin
-OmgSide_Plugin
+# XingChen_OmgSide_Plugin_List
